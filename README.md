@@ -10,9 +10,10 @@ Facilitate the adding the policy and its objects over multiple vendors (SRX and 
   For Fortigate
   10,Egypt_FG1,10.201.63.158,Fortigate,FALSE
 
+
 Run the Firewall-Policy-Manager.py file
 
 
 After Running the file you will see the the GUI interface
 
-Add your username and passwork and remove the FO mark
+  1. Add your username and passwork and remove the FO mark
