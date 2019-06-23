@@ -1,3 +1,5 @@
+Tested On windows only
+
 # Firewall-Policy-Manager
 Facilitate adding the policy and its objects over multiple vendors (SRX and Fortigate) 
 
