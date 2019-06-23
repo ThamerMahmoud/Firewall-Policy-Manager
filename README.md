@@ -6,7 +6,7 @@ Facilitate the adding the policy and its objects over multiple vendors (SRX and 
  
  Download all the files
  
- Firstly update the "FWList.csv" file with your firewall IPs, Names at the below template using any editor
+Update the "FWList.csv" file with your firewall IPs, Names at the below template using any editor
  
 ## For Juniper SRX
  
@@ -20,7 +20,7 @@ Facilitate the adding the policy and its objects over multiple vendors (SRX and 
 Run the Firewall-Policy-Manager.py file
 
 
-After Running the file you will see the the GUI interface
+ After Running the file you will see the the GUI interface
 
    ## 1. Add your username and password and remove the FO mark
    Note: you can add your username and password in the script and use the FO check box instead of add them every time
