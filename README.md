@@ -8,13 +8,13 @@ Facilitate the adding the policy and its objects over multiple vendors (SRX and 
  
  Firstly update the "FWList.csv" file with your firewall IPs, Names at the below template using any editor
  
-   For Juniper SRX
+## For Juniper SRX
  
-      9,Cairo_SRX,10.200.15.13,Juniper_SRX,FALSE
+    9,Cairo_SRX,10.200.15.13,Juniper_SRX,FALSE
  
-   For Fortigate
+## For Fortigate
  
-      10,Egypt_FG1,10.201.63.158,Fortigate,FALSE
+    10,Egypt_FG1,10.201.63.158,Fortigate,FALSE
 
 
 Run the Firewall-Policy-Manager.py file
