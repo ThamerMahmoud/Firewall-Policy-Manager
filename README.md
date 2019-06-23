@@ -23,3 +23,4 @@ Run the Firewall-Policy-Manager.py file
 After Running the file you will see the the GUI interface
 
   1. Add your username and passwork and remove the FO mark
+     ## Note: you can add your username and password in the script and use the FO check box instead of add them every time
