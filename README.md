@@ -6,7 +6,7 @@ Facilitate adding the policy and its objects over multiple vendors (SRX and Fort
  
  Download all the files
  
-Update the "FWList.csv" file with your firewall IPs, Names at the below template using any editor
+Update the "FWList.csv" file with your firewall IPs and Names using the below template using any editor
  
 ## For Juniper SRX
  
