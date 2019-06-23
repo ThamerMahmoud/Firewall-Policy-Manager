@@ -1,0 +1,4 @@
+No.,FirewallName,FirewallIP,Type,LogicalSystem
+1,FW1_Name,10.10.10.1,Juniper_SRX,FALSE
+2,FW2_Name,10.12.13.1,Juniper_SRX,FALSE
+3,FW3,10.10.10.5,Fortigate,FALSE
