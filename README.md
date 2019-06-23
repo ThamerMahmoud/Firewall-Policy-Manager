@@ -39,3 +39,4 @@ Run the Firewall-Policy-Manager.py file
       For TCP only the port number or with the TCP like 25 or TCP25
 
    ## 4. Press "Run" button
+   You can monitor the progress from CMD window
