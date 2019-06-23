@@ -1,2 +1,2 @@
 # Firewall-Policy-Manager
-Facilate the adding the policy and it's objects
+Facilitate the adding the policy and its objects over multiple vendors (SRX and Fortigate) 
