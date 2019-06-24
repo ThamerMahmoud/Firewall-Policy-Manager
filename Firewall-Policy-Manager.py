@@ -2,7 +2,7 @@ import sys
 import logging
 from PySide import QtCore, QtGui 
 from PySide.QtCore import QThread, SIGNAL
-import gui_3rd_test1
+import GUI_Interface
 from netaddr import *
 import pprint
 import re , os
@@ -164,7 +164,7 @@ def SRVs2(SRVs):
 	return ServiceTCPs, ServiceUDPs, ServiceSCTPs, ServicePreds
 
 	
-class MyApp(QtGui.QMainWindow, gui_3rd_test1.Ui_MainWindow):
+class MyApp(QtGui.QMainWindow, GUI_Interface.Ui_MainWindow):
 	
 	def __init__(self):
 		super(self.__class__, self).__init__()
