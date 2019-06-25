@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/ThamerMahmoud/Firewall-Policy-Manager/blob/master/",
     packages=setuptools.find_packages(),
-	# packages= ['paramiko'],
+	# packages= ['paramiko', 'netaddr' , ''],
 	install_requires=[
           'paramiko',  ],
     classifiers=[
