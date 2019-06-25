@@ -15,7 +15,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
 	# packages= ['paramiko', 'netaddr' , ''],
 	install_requires=[
-          'paramiko',  ],
+          'paramiko', 'PySide' ],
     classifiers=[
         "Programming Language :: Python :: 2",
         "License :: OSI Approved :: MIT License",
